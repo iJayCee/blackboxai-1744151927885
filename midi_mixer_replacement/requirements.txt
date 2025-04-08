@@ -1,0 +1,8 @@
+mido
+python-rtmidi
+pyautogui
+pycaw; sys_platform == 'win32'
+comtypes; sys_platform == 'win32'
+pywin32>=300; sys_platform == 'win32'
+pywinauto; sys_platform == 'win32'
+pulsectl; sys_platform == 'linux'
