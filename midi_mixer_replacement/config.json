@@ -1,0 +1,28 @@
+{
+    "audio_devices": {
+        "Headphones": "Your Headphone Device Name",
+        "Desk Speakers": "Your Speaker Device Name"
+    },
+    "midi_mappings": {
+        "pads": {
+            "36": "previous_track",
+            "37": "play_pause",
+            "38": "next_track",
+            "39": "switch_device:Headphones",
+            "40": "launch:spotify.exe",
+            "41": "mute_mic",
+            "42": "launch:discord.exe",
+            "43": "switch_device:Desk Speakers"
+        },
+        "knobs": {
+            "1": "volume:spotify",
+            "2": "volume:discord",
+            "3": "volume:mic",
+            "4": "volume:master",
+            "5": "volume:chrome",
+            "6": "volume:app1",
+            "7": "volume:app2",
+            "8": "volume:master"
+        }
+    }
+}
